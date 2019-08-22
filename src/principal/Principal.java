@@ -15,7 +15,7 @@ public class Principal
         caozinho.setCodigo(15);
         caozinho.setRaca("Labradorhmkk kk");
         caozinho.setSexo("Fêmeaaaa");
-        
+        System.out.println("BERRRO");
         // pessoinha.
         // Não consigo acessar os atributos de pessoinha, pois 
         // são privados.
