@@ -14,7 +14,7 @@ public class Principal
         
         caozinho.setCodigo(15);
         caozinho.setRaca("Labradorhmkk kk");
-        caozinho.setSexo("Fêmea");
+        caozinho.setSexo("Fêmeaaaa");
         
         // pessoinha.
         // Não consigo acessar os atributos de pessoinha, pois 
