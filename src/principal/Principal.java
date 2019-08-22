@@ -13,7 +13,7 @@ public class Principal
         Mobilia movelzinho = new Mobilia();
         
         caozinho.setCodigo(15);
-        caozinho.setRaca("Labrador");
+        caozinho.setRaca("Labradorhmkk kk");
         caozinho.setSexo("Fêmea");
         
         // pessoinha.
