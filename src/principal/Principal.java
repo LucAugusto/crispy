@@ -13,9 +13,9 @@ public class Principal
         Mobilia movelzinho = new Mobilia();
         
         caozinho.setCodigo(15);
-        caozinho.setRaca("Labradorhmkk kk");
+        caozinho.setRaca("Labrador");
         caozinho.setSexo("Fêmeaaaa");
-        System.out.println("BERRRO");
+
         // pessoinha.
         // Não consigo acessar os atributos de pessoinha, pois 
         // são privados.
